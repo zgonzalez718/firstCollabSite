@@ -11,12 +11,12 @@ img{
 div1{
 text-align: center;
 display: inline-block;
-background-color: gray;
+background-color: #4682B4;
 border: 2px solid blue;
 width: 100%;
 }
 h2{
-color: blue;
+color: white;
 }
 ul {
     list-style-type: none;
