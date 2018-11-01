@@ -19,10 +19,10 @@
 }
 
 .middle {
-  width: 50%;
+  width: 37%;
 }
 
-.left, .right {
-  width: 25%;
+.right {
+  width: 38%;
   padding-bottom: 10px;
 }
